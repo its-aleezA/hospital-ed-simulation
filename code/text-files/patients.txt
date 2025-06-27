@@ -1,0 +1,213 @@
+
+Patient{id=1, arrivalTime=1.735467835423E12, triageCategory=1, condition='Respiratory', status='Waiting'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735467837437E12, triageCategory=3, condition='Cardiac/Vascular', status='Waiting'}
+Patient{id=2, arrivalTime=1.735467836437E12, triageCategory=2, condition='Renal', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.735467838434E12, triageCategory=1, condition='Renal', status='Waiting'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.735467839432E12, triageCategory=4, condition='Renal', status='Waiting'}, Admitted as inPatient
+Patient{id=6, arrivalTime=1.735467840434E12, triageCategory=2, condition='Neurological', status='Waiting'}
+Patient{id=7, arrivalTime=1.735467841436E12, triageCategory=1, condition='Neurological', status='Waiting'}, Admitted as inPatient
+Patient{id=8, arrivalTime=1.735467842434E12, triageCategory=4, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=10, arrivalTime=1.735467844431E12, triageCategory=1, condition='Gastrointestinal', status='Waiting'}
+Patient{id=9, arrivalTime=1.735467843433E12, triageCategory=2, condition='Neurological', status='Waiting'}, Admitted as inPatient
+Patient{id=12, arrivalTime=1.735467846425E12, triageCategory=5, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=11, arrivalTime=1.735467845428E12, triageCategory=4, condition='Renal', status='Waiting'}, Admitted as inPatient
+Patient{id=14, arrivalTime=1.735467848424E12, triageCategory=2, condition='Cardiac/Vascular', status='Waiting'}
+Patient{id=13, arrivalTime=1.735467847424E12, triageCategory=2, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=15, arrivalTime=1.735467849422E12, triageCategory=4, condition='Cardiac/Vascular', status='Waiting'}
+Patient{id=17, arrivalTime=1.73546785143E12, triageCategory=5, condition='Gastrointestinal', status='Waiting'}
+Patient{id=16, arrivalTime=1.735467850435E12, triageCategory=1, condition='Neurological', status='Waiting'}, Admitted as inPatient
+Patient{id=1, arrivalTime=1.735468644484E12, triageCategory=1, condition='Gastrointestinal', status='Processed'}, Admitted as inPatient
+Patient{id=2, arrivalTime=1.735468645491E12, triageCategory=1, condition='Cardiac/Vascular', status='Processed'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735468646495E12, triageCategory=5, condition='Cardiac/Vascular', status='Processed'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.735468648489E12, triageCategory=1, condition='Neurological', status='Processed'}
+Patient{id=4, arrivalTime=1.735468647492E12, triageCategory=3, condition='Respiratory', status='Processed'}
+Patient{id=6, arrivalTime=1.735468649484E12, triageCategory=1, condition='Gastrointestinal', status='Processed'}
+Patient{id=7, arrivalTime=1.735468650487E12, triageCategory=1, condition='Respiratory', status='Processed'}, Admitted as inPatient
+Patient{id=8, arrivalTime=1.735468651497E12, triageCategory=1, condition='Cardiac/Vascular', status='Processed'}, Admitted as inPatient
+Patient{id=9, arrivalTime=1.735468652497E12, triageCategory=4, condition='Cardiac/Vascular', status='Processed'}, Admitted as inPatient
+Patient{id=10, arrivalTime=1.735468653494E12, triageCategory=2, condition='Renal', status='Processed'}, Admitted as inPatient
+Patient{id=11, arrivalTime=1.735468654494E12, triageCategory=1, condition='Gastrointestinal', status='Processed'}, Admitted as inPatient
+Patient{id=13, arrivalTime=1.735468656493E12, triageCategory=5, condition='Renal', status='Processed'}, Admitted as inPatient
+Patient{id=1, arrivalTime=1.73556499758E12, triageCategory=5, condition='Condition-303', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.73556500059E12, triageCategory=4, condition='Condition-590', status='Waiting'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.735565001586E12, triageCategory=2, condition='Condition-416', status='Waiting'}, Admitted as inPatient
+Patient{id=2, arrivalTime=1.735641699316E12, triageCategory=2, condition='Neurological', status='Waiting'}
+Patient{id=1, arrivalTime=1.735641698305E12, triageCategory=2, condition='Neurological', status='Waiting'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735641700308E12, triageCategory=2, condition='Renal', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.735641701317E12, triageCategory=1, condition='Gastrointestinal', status='Waiting'}
+Patient{id=5, arrivalTime=1.735641702308E12, triageCategory=3, condition='Gastrointestinal', status='Waiting'}
+Patient{id=6, arrivalTime=1.735641703316E12, triageCategory=1, condition='Neurological', status='Waiting'}
+Patient{id=7, arrivalTime=1.735641704308E12, triageCategory=2, condition='Respiratory', status='Waiting'}, Admitted as inPatient
+Patient{id=9, arrivalTime=1.735641706306E12, triageCategory=5, condition='Respiratory', status='Waiting'}
+Patient{id=8, arrivalTime=1.735641705314E12, triageCategory=2, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=10, arrivalTime=1.735641707306E12, triageCategory=2, condition='Respiratory', status='Waiting'}, Admitted as inPatient
+Patient{id=12, arrivalTime=1.735641709305E12, triageCategory=2, condition='Neurological', status='Waiting'}
+Patient{id=11, arrivalTime=1.735641708313E12, triageCategory=1, condition='Neurological', status='Waiting'}, Admitted as inPatient
+Patient{id=13, arrivalTime=1.735641710313E12, triageCategory=1, condition='Respiratory', status='Waiting'}, Admitted as inPatient
+Patient{id=14, arrivalTime=1.735641711319E12, triageCategory=1, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=15, arrivalTime=1.73564171231E12, triageCategory=2, condition='Renal', status='Waiting'}
+Patient{id=16, arrivalTime=1.735641713316E12, triageCategory=2, condition='Neurological', status='Waiting'}
+Patient{id=17, arrivalTime=1.735641714306E12, triageCategory=4, condition='Gastrointestinal', status='Waiting'}, Admitted as inPatient
+Patient{id=18, arrivalTime=1.735641715311E12, triageCategory=1, condition='Respiratory', status='Waiting'}, Admitted as inPatient
+Patient{id=1, arrivalTime=1.735641785797E12, triageCategory=1, condition='Renal', status='Waiting'}
+Patient{id=2, arrivalTime=1.735643089327E12, triageCategory=4, condition='project.Disease@1ca73afb', status='Waiting'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735643090321E12, triageCategory=5, condition='project.Disease@776e1223', status='Waiting'}
+Patient{id=1, arrivalTime=1.73564308832E12, triageCategory=2, condition='project.Disease@18cfe484', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.73564309132E12, triageCategory=5, condition='project.Disease@180e0394', status='Waiting'}
+Patient{id=5, arrivalTime=1.735643092333E12, triageCategory=4, condition='project.Disease@180e0394', status='Waiting'}, Admitted as inPatient
+Patient{id=6, arrivalTime=1.735643093327E12, triageCategory=4, condition='project.Disease@776e1223', status='Waiting'}, Admitted as inPatient
+Patient{id=7, arrivalTime=1.735643094325E12, triageCategory=5, condition='project.Disease@180e0394', status='Waiting'}, Admitted as inPatient
+Patient{id=2, arrivalTime=1.735717640483E12, triageCategory=2, condition='project.Disease@57d91fcd', status='Waiting'}, Admitted as inPatient
+Patient{id=1, arrivalTime=1.735717639484E12, triageCategory=3, condition='project.Disease@5bb4932c', status='Waiting'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735717641493E12, triageCategory=1, condition='project.Disease@57d91fcd', status='Waiting'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.735717643483E12, triageCategory=1, condition='project.Disease@3f34b3d', status='Waiting'}
+Patient{id=4, arrivalTime=1.73571764249E12, triageCategory=3, condition='project.Disease@5bb4932c', status='Waiting'}, Admitted as inPatient
+Patient{id=6, arrivalTime=1.735717644488E12, triageCategory=4, condition='project.Disease@57d91fcd', status='Waiting'}
+Patient{id=7, arrivalTime=1.735717645494E12, triageCategory=3, condition='project.Disease@57d91fcd', status='Waiting'}
+Patient{id=1, arrivalTime=1.735717713539E12, triageCategory=4, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=2, arrivalTime=1.735717714543E12, triageCategory=5, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=3, arrivalTime=1.735717715546E12, triageCategory=2, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.735717716551E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=5, arrivalTime=1.735717717544E12, triageCategory=2, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=6, arrivalTime=1.735717718552E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=7, arrivalTime=1.735717719545E12, triageCategory=4, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=8, arrivalTime=1.735717720553E12, triageCategory=5, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=9, arrivalTime=1.735717721545E12, triageCategory=2, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=10, arrivalTime=1.735717722553E12, triageCategory=5, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=11, arrivalTime=1.735717723549E12, triageCategory=4, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=12, arrivalTime=1.735717724544E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=13, arrivalTime=1.735717725551E12, triageCategory=1, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=14, arrivalTime=1.73571772654E12, triageCategory=3, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=15, arrivalTime=1.735717727546E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=16, arrivalTime=1.735717728539E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=17, arrivalTime=1.735717729553E12, triageCategory=2, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=19, arrivalTime=1.735717731549E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=20, arrivalTime=1.735717732546E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=18, arrivalTime=1.735717730546E12, triageCategory=2, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=21, arrivalTime=1.735717733553E12, triageCategory=3, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=23, arrivalTime=1.735717735545E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=22, arrivalTime=1.735717734555E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=24, arrivalTime=1.735717736552E12, triageCategory=4, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=25, arrivalTime=1.735717737546E12, triageCategory=5, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=26, arrivalTime=1.735717738552E12, triageCategory=1, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=27, arrivalTime=1.735717739545E12, triageCategory=2, condition='project.Disease@4f3dee04', status='Waiting'}
+Patient{id=28, arrivalTime=1.735717740539E12, triageCategory=4, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=29, arrivalTime=1.735717741543E12, triageCategory=4, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=30, arrivalTime=1.735717742539E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=31, arrivalTime=1.735717743541E12, triageCategory=4, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=32, arrivalTime=1.735717744545E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=33, arrivalTime=1.735717745554E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=34, arrivalTime=1.735717746546E12, triageCategory=4, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=35, arrivalTime=1.73571774755E12, triageCategory=2, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=36, arrivalTime=1.73571774854E12, triageCategory=3, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=37, arrivalTime=1.735717749547E12, triageCategory=5, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=38, arrivalTime=1.735717750539E12, triageCategory=5, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=40, arrivalTime=1.73571775254E12, triageCategory=4, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=39, arrivalTime=1.735717751548E12, triageCategory=5, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=41, arrivalTime=1.735717753547E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=42, arrivalTime=1.735717754541E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=43, arrivalTime=1.735717755541E12, triageCategory=5, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=44, arrivalTime=1.735717756548E12, triageCategory=5, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=46, arrivalTime=1.735717758543E12, triageCategory=1, condition='project.Disease@4f3dee04', status='Waiting'}
+Patient{id=45, arrivalTime=1.735717757553E12, triageCategory=2, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=47, arrivalTime=1.735717759551E12, triageCategory=3, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=48, arrivalTime=1.735717760541E12, triageCategory=4, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=49, arrivalTime=1.735717761548E12, triageCategory=2, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=50, arrivalTime=1.735717762542E12, triageCategory=3, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=51, arrivalTime=1.735717763548E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=52, arrivalTime=1.735717764541E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=53, arrivalTime=1.735717765548E12, triageCategory=3, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=55, arrivalTime=1.735717767552E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=54, arrivalTime=1.735717766553E12, triageCategory=3, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=56, arrivalTime=1.735717768544E12, triageCategory=4, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=57, arrivalTime=1.735717769545E12, triageCategory=3, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=58, arrivalTime=1.735717770552E12, triageCategory=3, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=59, arrivalTime=1.735717771549E12, triageCategory=4, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=60, arrivalTime=1.735717772543E12, triageCategory=4, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=61, arrivalTime=1.735717773545E12, triageCategory=4, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=62, arrivalTime=1.73571777455E12, triageCategory=5, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=63, arrivalTime=1.735717775547E12, triageCategory=2, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=64, arrivalTime=1.735717776539E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=65, arrivalTime=1.735717777549E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=66, arrivalTime=1.73571777854E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=67, arrivalTime=1.735717779549E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=68, arrivalTime=1.735717780539E12, triageCategory=1, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=70, arrivalTime=1.735717782542E12, triageCategory=5, condition='project.Disease@4f3dee04', status='Waiting'}
+Patient{id=69, arrivalTime=1.735717781547E12, triageCategory=5, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=71, arrivalTime=1.735717783547E12, triageCategory=1, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=73, arrivalTime=1.735717785539E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=74, arrivalTime=1.735717786548E12, triageCategory=5, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=75, arrivalTime=1.735717787542E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=76, arrivalTime=1.735717788551E12, triageCategory=5, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=77, arrivalTime=1.735717789547E12, triageCategory=3, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=78, arrivalTime=1.735717790551E12, triageCategory=2, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=80, arrivalTime=1.735717792547E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=79, arrivalTime=1.73571779154E12, triageCategory=2, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=81, arrivalTime=1.735717793554E12, triageCategory=2, condition='project.Disease@4f3dee04', status='Waiting'}, Admitted as inPatient
+Patient{id=82, arrivalTime=1.73571779454E12, triageCategory=2, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=83, arrivalTime=1.735717795552E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=85, arrivalTime=1.735717797546E12, triageCategory=3, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=84, arrivalTime=1.735717796548E12, triageCategory=3, condition='project.Disease@64fa9a01', status='Waiting'}, Admitted as inPatient
+Patient{id=87, arrivalTime=1.735717799545E12, triageCategory=5, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=86, arrivalTime=1.735717798553E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=88, arrivalTime=1.735717800553E12, triageCategory=1, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=89, arrivalTime=1.735717801548E12, triageCategory=2, condition='project.Disease@3ae4383c', status='Waiting'}
+Patient{id=90, arrivalTime=1.735717802554E12, triageCategory=3, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=91, arrivalTime=1.735717803546E12, triageCategory=2, condition='project.Disease@6598352d', status='Waiting'}, Admitted as inPatient
+Patient{id=92, arrivalTime=1.735717804552E12, triageCategory=2, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=93, arrivalTime=1.735717805544E12, triageCategory=4, condition='project.Disease@3ae4383c', status='Waiting'}, Admitted as inPatient
+Patient{id=94, arrivalTime=1.735717806548E12, triageCategory=1, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=95, arrivalTime=1.735717807552E12, triageCategory=4, condition='project.Disease@6598352d', status='Waiting'}
+Patient{id=96, arrivalTime=1.735717808542E12, triageCategory=1, condition='project.Disease@64fa9a01', status='Waiting'}
+Patient{id=97, arrivalTime=1.735717809547E12, triageCategory=2, condition='project.Disease@3c3e4564', status='Waiting'}, Admitted as inPatient
+Patient{id=98, arrivalTime=1.735717810539E12, triageCategory=5, condition='project.Disease@3c3e4564', status='Waiting'}
+Patient{id=2, arrivalTime=1.735717819198E12, triageCategory=4, condition='project.Disease@1ca73afb', status='Waiting'}, Admitted as inPatient
+Patient{id=1, arrivalTime=1.735717818185E12, triageCategory=3, condition='project.Disease@2bcb5cd1', status='Waiting'}, Admitted as inPatient
+Patient{id=4, arrivalTime=1.735717821185E12, triageCategory=5, condition='project.Disease@180e0394', status='Waiting'}
+Patient{id=3, arrivalTime=1.735717820189E12, triageCategory=3, condition='project.Disease@2bcb5cd1', status='Waiting'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.735717822191E12, triageCategory=4, condition='project.Disease@2bcb5cd1', status='Waiting'}
+Patient{id=6, arrivalTime=1.735717823186E12, triageCategory=2, condition='project.Disease@180e0394', status='Waiting'}
+Patient{id=7, arrivalTime=1.735717824192E12, triageCategory=3, condition='project.Disease@3376a27c', status='Waiting'}, Admitted as inPatient
+Patient{id=8, arrivalTime=1.735717825197E12, triageCategory=5, condition='project.Disease@180e0394', status='Waiting'}, Admitted as inPatient
+Patient{id=9, arrivalTime=1.735717826185E12, triageCategory=3, condition='project.Disease@2bcb5cd1', status='Waiting'}
+Patient{id=11, arrivalTime=1.7357178282E12, triageCategory=4, condition='project.Disease@1ca73afb', status='Waiting'}
+Patient{id=10, arrivalTime=1.735717827191E12, triageCategory=2, condition='project.Disease@5ae4d56e', status='Waiting'}, Admitted as inPatient
+Patient{id=13, arrivalTime=1.735717830198E12, triageCategory=3, condition='project.Disease@5ae4d56e', status='Waiting'}
+Patient{id=12, arrivalTime=1.735717829191E12, triageCategory=2, condition='project.Disease@2bcb5cd1', status='Waiting'}, Admitted as inPatient
+Patient{id=14, arrivalTime=1.735717831188E12, triageCategory=4, condition='project.Disease@1ca73afb', status='Waiting'}
+Patient{id=15, arrivalTime=1.735717832195E12, triageCategory=4, condition='project.Disease@1ca73afb', status='Waiting'}
+Patient{id=16, arrivalTime=1.735717833189E12, triageCategory=4, condition='project.Disease@2bcb5cd1', status='Waiting'}, Admitted as inPatient
+Patient{id=17, arrivalTime=1.735717834199E12, triageCategory=4, condition='project.Disease@3376a27c', status='Waiting'}, Admitted as inPatient
+Patient{id=18, arrivalTime=1.735717835191E12, triageCategory=1, condition='project.Disease@1ca73afb', status='Waiting'}, Admitted as inPatient
+Patient{id=20, arrivalTime=1.735717837189E12, triageCategory=5, condition='project.Disease@3376a27c', status='Waiting'}
+Patient{id=19, arrivalTime=1.735717836196E12, triageCategory=5, condition='project.Disease@3376a27c', status='Waiting'}, Admitted as inPatient
+Patient{id=21, arrivalTime=1.735717838196E12, triageCategory=4, condition='project.Disease@5ae4d56e', status='Waiting'}
+Patient{id=22, arrivalTime=1.735717839188E12, triageCategory=2, condition='project.Disease@5ae4d56e', status='Waiting'}, Admitted as inPatient
+Patient{id=2, arrivalTime=1.735717921184E12, triageCategory=5, condition='project.Disease@6e1c78ed', status='Waiting'}
+Patient{id=1, arrivalTime=1.735717920182E12, triageCategory=2, condition='project.Disease@11d10a16', status='Waiting'}
+Patient{id=3, arrivalTime=1.735717922193E12, triageCategory=4, condition='project.Disease@6e1c78ed', status='Waiting'}
+Patient{id=3, arrivalTime=1.735717922193E12, triageCategory=4, condition='project.Disease@6e1c78ed', status='Waiting'}, Admitted as inPatient
+Patient{id=5, arrivalTime=1.73571792419E12, triageCategory=2, condition='project.Disease@31554f6', status='Waiting'}, Admitted as inPatient
+Patient{id=6, arrivalTime=1.735717925183E12, triageCategory=2, condition='project.Disease@11d10a16', status='Waiting'}, Admitted as inPatient
+Patient{id=7, arrivalTime=1.735717926186E12, triageCategory=1, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=8, arrivalTime=1.735717927191E12, triageCategory=5, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=10, arrivalTime=1.735717929191E12, triageCategory=4, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=8, arrivalTime=1.735717927191E12, triageCategory=5, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=11, arrivalTime=1.735717930186E12, triageCategory=5, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=12, arrivalTime=1.735717931179E12, triageCategory=1, condition='project.Disease@87054b3', status='Waiting'}, Admitted as inPatient
+Patient{id=13, arrivalTime=1.735717932188E12, triageCategory=4, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=14, arrivalTime=1.735717933181E12, triageCategory=5, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=15, arrivalTime=1.735717934188E12, triageCategory=1, condition='project.Disease@11d10a16', status='Waiting'}
+Patient{id=16, arrivalTime=1.735717935178E12, triageCategory=5, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=17, arrivalTime=1.735717936185E12, triageCategory=4, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=18, arrivalTime=1.735717937181E12, triageCategory=2, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=19, arrivalTime=1.735717938192E12, triageCategory=3, condition='project.Disease@3e35e12f', status='Waiting'}, Admitted as inPatient
+Patient{id=20, arrivalTime=1.735717939187E12, triageCategory=1, condition='project.Disease@87054b3', status='Waiting'}, Admitted as inPatient
+Patient{id=22, arrivalTime=1.735717941179E12, triageCategory=2, condition='project.Disease@6e1c78ed', status='Waiting'}
+Patient{id=21, arrivalTime=1.735717940183E12, triageCategory=3, condition='project.Disease@31554f6', status='Waiting'}, Admitted as inPatient
+Patient{id=23, arrivalTime=1.735717942187E12, triageCategory=2, condition='project.Disease@3e35e12f', status='Waiting'}
+Patient{id=24, arrivalTime=1.735717943178E12, triageCategory=2, condition='project.Disease@87054b3', status='Waiting'}
+Patient{id=25, arrivalTime=1.735717944187E12, triageCategory=2, condition='project.Disease@31554f6', status='Waiting'}, Admitted as inPatient
+Patient{id=26, arrivalTime=1.73571794519E12, triageCategory=1, condition='project.Disease@6e1c78ed', status='Waiting'}
+Patient{id=28, arrivalTime=1.735717947182E12, triageCategory=5, condition='project.Disease@87054b3', status='Waiting'}
+Patient{id=27, arrivalTime=1.735717946185E12, triageCategory=3, condition='project.Disease@87054b3', status='Waiting'}
