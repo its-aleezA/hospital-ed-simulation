@@ -1,0 +1,4 @@
+3,Attending,5
+4,Fellow,4
+5,Resident,2
+6,Chief,6
