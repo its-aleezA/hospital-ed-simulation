@@ -64,7 +64,7 @@ A full report explaining simulation design, class structure, statistical modelin
 
 ## 💻 Source Code
 
-All source code files are available in the [`code/`](code/) directory.
+All source code files are available in the [`src/htms/`](src/htms/) directory.
 
 ---
 
